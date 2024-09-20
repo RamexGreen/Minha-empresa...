@@ -1,0 +1,15 @@
+*{
+    color: rgb(255, 249, 249);
+    
+
+}
+
+body {
+    background-image: url(../img/the-last-of-us-ellie-8k-joel-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    backdrop-filter: blur(2px);
+}
+
